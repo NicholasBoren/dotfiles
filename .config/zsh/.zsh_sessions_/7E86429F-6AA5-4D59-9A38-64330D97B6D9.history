@@ -1,0 +1,1003 @@
+cd .vim/Ultisnips
+ls
+mv txt.snippets text.snippets
+ls
+cd ../..
+ls
+vim hi.txt
+vim .vim/Ultisnips/text.snippets
+tmux new-window
+clear
+vim hi.txt
+cd .vim
+ls
+cd UltiSnips && ls
+cat vim
+rm vim
+mv text.snippets all.snippets
+vim all.snippets
+cd ../..
+ls
+vim hi.txt
+vim .vim/UltiSnips/all.snippets
+vim hi.txt
+vim .vim/UltiSnips/all.snippets
+vim hi.txt
+vim .vim/UltiSnips/all.snippets
+vim hi.txt
+vim .vim/UltiSnips/all.snippets
+vim hi.txt
+vim .vim/UltiSnips/all.snippets
+vim hi.txt
+clear
+vim .vim/UltiSnips/tex.snippets
+vim HelloWorld.tex
+vim .vimrc
+zathura
+brew install zathura-pdf-mupdf
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-mupdf)/libpdf-mupdf.dylib $(brew --prefix zathura)/lib/zathura/libpdf-mupdf.dylib
+zathura
+man zathura
+zathura --help
+vim HelloWorld.tex
+brew install latexmk
+sudo tlmgr install latexmk
+brew install --cask mactex
+brew install ghostscript
+path
+ls
+vim HelloWorld.tex
+Vimtex
+vimtex
+vim HelloWorld.tex
+vim HelloWorld.tex
+rm HelloWorld.tex
+touch HelloWorld.tex
+vim HelloWorld.tex
+vim HelloWorld.tex
+clear
+vim HelloWorld.tex
+vim HelloWorld.tex
+vim .vim/UltiSnips/tex.snippets
+vim HelloWorld.tex
+vim .vimrc
+vim HelloWorld.tex
+vim .vimrc
+vim HelloWorld.tex
+vim .vimrc
+vim .vimrc
+vim HelloWorld.tex
+vim HelloWorld.tex
+ls
+view
+view HelloWorld.pdf
+grep Hello
+grep Hello .
+ls | grep -E Hello
+ls | grep -E Hello | rm
+ls | grep -E Hello | rm -f
+ls
+find . | grep Hello
+ls | grep HelloWorld | xargs ls -lh
+ls | grep HelloWorld | xargs rm -fr
+ls
+mkdir Latex_Workspace
+cd Latex_Workspace
+ls
+clear
+touch Scratch.tex
+vim Scratch.tex
+ls
+vim Scratch.tex
+vim .vimrc
+vim ~/.vimrc
+vim ~/.vim/Ultisnips/tex.snippets
+vim ~/.vim/Ultisnips/tex.snippets
+ls
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim ~/.vim/Ultisnips/tex.snippets
+cd ~/.vim/Ultisnips
+ls
+ls -l
+ls -a
+head .tex.snippets.swp
+rm .tex.snippets.swap
+rm .tex.snippets.swp
+cd ../..
+ls
+cd Latex_Workspace
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+vim ~/.vim/Ultisnips/tex.snippets
+vim Scratch.tex
+touch Lecture01.tex
+vim Lecture01
+vim Lecture01.tex
+vim Scratch.tex
+vim Lecture01.tex
+mv Lecture01.tex Lecture00.tex
+ls
+touch Lecture01.tex
+vim Lecture01.tex
+vim Scratch.tex
+ls
+cd Latex_Workspace
+cd Latex_Workspace
+vim Scratch.tex
+exit
+vim Scratch.tex
+cd Latex_Workspace
+vim Scratch.tex
+vim Scratch.tex
+vim Scratch.tex
+cd Latex_Workspace
+vim Scratch.tex
+ls
+mkdir Math_318
+mv Scratch.tex Math_318
+cd Scratch.tex && ls
+cd Scratch.tex
+cd Math_318 && ls
+mv Scratch.tex Homework1.tex
+ls
+mkdir Homework_1
+mv Homework1.tex Homework_1
+clear
+ls
+cd Homework_1
+ls
+vim Homework1.tex
+ls
+cd ..
+ls
+cd ..
+ls
+grep -E "Scratch"
+grep -E "Scratch" .
+grep -Ed "Scratch" 
+grep -Ed "Scratch" .
+grep -d "Scratch" .
+grep -di "Scratch" .
+grep -d -E
+grep --directories
+grep --directories -f
+grep --directories .
+grep --directories . curr
+clear
+mkdir Math/Stat_394
+mkdir "Math/Stats_394"
+mkdir Math_394
+cd Math_394
+touch Homework1.tex
+vim Homework1.tex
+vim ~/.vim/Ultisnips/tex.snippets
+cd ../..
+ls
+cd .vim
+ls
+cd snippets
+ls
+ls -l
+ls -a
+cd ..
+ls -a
+ls plugged
+vim plugged
+ls plugged
+cd plugged
+ls ultisnips
+ls vim-snippets
+ls vim-snippets/snippets
+cd vim-snippets/snippets
+ls
+vim tex.snippets
+cd ..
+cd ..
+cd ..
+cd ..
+ls
+cd Latex_Workspace
+cd Math_394
+ls
+vim Homework1.tex
+vim Homework1.tex
+mv Homework1.tex ~/Desktop
+ls
+mv Homework1.pdf ~/Desktop
+cd ..
+cd Math_318
+vim Homework1.pdf
+vim Homework1.tex
+ls
+cd Homework_1
+vim Homework1.tex
+ls
+mv Homework1.pdf ~/Downloads
+vim Homework1.tex
+mv Homework1.pdf ~/Downloads
+cd ~
+cd Desktop
+ls
+mkdir Remove_After
+mv Homework1.tex Remove_After
+cd Remove_After
+vim Homework1.tex
+cd ..
+cd ..
+ranger
+clear
+cd .vim
+cd plugged
+ls
+cd vim-snippets
+ls
+cd ..
+cd ultisnips
+ls
+cd ..
+cd snippets
+ls
+cd vim-snippets
+ls snippets
+ls
+cd snippets
+ls
+vim tex.snippets
+cd ..
+cd ..
+cd ..
+cd 
+clear
+cd Latex_Workspace/Math_394
+cd Lectures
+cd Lecture1
+;s
+ls
+mv Lecture00.tex Lecture01.tex
+vim Lecture01.tex
+mv Lecture01.tex Lecture02.tex
+touch Lecture01.tex
+vim Lecture01.tex
+vim Lecture02.tex
+vim Lecture02.tex
+brew install coreutils
+gpinky
+vim ~downloads/Homework2.tex
+vim ~Downloads/Homework2.tex
+cd ~
+ls
+cd Cownloads
+cd Downloads
+ls
+vim Homework2.tex
+cd ..
+vim Latex_Workspace/Math_394/Lecture1/Lecture01.tex
+vim Latex_Workspace/Math_394/Lecture1/Lecture1.tex
+cd Latex_Workspace/Math_394/Lecture1
+cd Latex_Workspace/Math_394/
+ls
+cd Latex_Workspace/Math_394/Lectures
+cd Lectures
+ls
+cd lecture1
+vim lecture01.tex
+ls
+vim lecture02.tex
+vim ~/Latex_Workspace/Lectures/Lecture1/Lecture02.tex
+vim ~/Latex_Workspace/Lecture/Lecture1/Lecture02.tex
+vim ~/Latex_Workspace/Lecture/Lecture1/Lecture2.tex
+cd Latex_workspace
+cd Lecture
+cd lecture
+cd lectures
+ls
+cd math_394
+ls
+cd lectures
+cd lecture1
+vim lecture2.tex
+vim lecture02.tex
+vim ~/.vim/ultisnips/tex.snippets
+vim lecture02.tex
+exit
+vim ~/Latex_Workspace/Math_394/lecture/lecture01
+vim ~/Latex_Workspace/Math_394/lectures/lecture01.tex
+vim ~/Latex_Workspace/Math_394/lecture/lecture01.tex
+vim ~/Latex_Workspace/Math_394/lecture/lecture02.tex
+vim ~/Latex_Workspace/Math_394/Lecture/lecture02.tex
+cd ~/Latex_Workspace/Math_394/Lecture/lecture02.tex
+cd ~/Latex_Workspace/Math_394/Lecture
+cd ~/Latex_Workspace/Math_394
+ls
+cd ~/Latex_Workspace/Math_394/Lectures
+cd ~/Latex_Workspace/Math_394/Lectures/
+vim lecture02.tex
+ls
+vim Lecture1/lecture02.tex
+vim .vim/ultisnips/tex.snippets
+vim .vim/ultisnips/texit.snippets
+vim ~/.vim/ultisnips/tex.snippets
+vim Lecture1/lecture02.tex
+vim ~/.vim/ultisnips/tex.snippets
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture1/lecture02.tex
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+mkdir ~/Latex_Workspace/Math_394/Lectures/Lecture2
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+vim ~/.vim/ultisnips/tex.snippets
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+vim ~/.vim/ultisnips/tex.snippets
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+vim ~/.vim/ultisnips/tex.snippets
+vim ~/Latex_Workspace/Math_394/Lectures/Lecture2/lecture02.tex
+ranger
+ranger
+ranger
+cd .vim
+ranger
+ranger
+ranger
+man ranger
+ranger sessions
+ranger ranger
+ranger
+py Scratch.py
+python3
+py3 Scratch.py
+ranger
+zsh --help
+/suspend
+zsh man
+ranger
+quit
+exit
+vim phonenumber.txt
+ranger
+quit
+ranger
+quit
+exit
+zsh
+clear
+ranger
+ranger
+cd Latex_Workspace
+ls
+cd Math_394
+ls
+cd Exams
+cd Midterm
+ls
+ls -a
+cat .midterm.tex.swp
+vim .midterm.tex.swp
+ls
+ls -a
+vim midterm.tex
+vim midterm.tex
+vim -r midterm.tex
+vim midterm.tex
+vim -r midterm.tex
+ls
+ls -l
+ls -a
+mv .midterm.tex.swp.oops
+mv .midterm.tex.swp .midterm.tex.swp.oops
+vim midterm.tex
+ranger
+ranger
+cd .vim
+ranger
+\:quit()\
+\
+quit
+quit()\
+quit
+quit
+exit
+tmux ls
+tmux pane
+tmux help
+tmux man
+man tmux
+ranger
+exit
+ranger
+exit
+ranger
+clear
+tmux new
+quit
+exit
+ranger
+tmux
+ranger
+exit
+ranger
+exit
+tmux
+clear
+ranger
+clear
+cd Husky-Coding-Priject
+cd Husky-Coding-Project
+ls
+cd HuskyReads
+ssh-keygen -t ed25519 -C "Nickboren917@gmail.com"
+ls -l
+ls -a
+cd ..
+cd ..
+ls -a
+cd .ssh
+ls
+pbcopy id_ed25519.pub
+cat id_ed25519.pub
+cd ..
+cd Husky-Coding-Project/HuskyReads
+git
+clear
+git pull git@github.com:Husky-Coding-Project/HuskyReads.git
+git
+git clone git@github.com:Husky-Coding-Project/HuskyReads.git
+git clone git@github.com:Husky-Coding-Project/HuskyReads.git
+ls
+mv HuskyReads ~/Husky-Coding-Project/
+cd ..
+ls
+mv HuskyReads ~/Husky-Coding-Project/
+cd HuskyReads
+ls
+mv HuskyReads HuskyReads1
+cd ..
+mv HuskyReads1 ~/Husky-Coding-Project/
+ls
+mv HuskyReads1 ~/Husky-Coding-Project/HuskyReads
+mv HuskyReads1 ~/Husky-Coding-Project/HuskyReads/
+ranger
+clear
+ls
+cd Huskyreads
+ls
+git
+git switch
+git switch database
+ls
+cd api
+ls
+vim database.sql
+git
+git stage
+git add
+git stage .
+git commit
+git commit
+git commit
+git push
+git push --help
+git pull
+git merge
+git push
+git pull
+git
+git diff
+git diff .
+/Volumes/My\ Passport/System\ Volume\ Information/IndexerVolumeGuid ; exit;
+ranger
+clear
+brew install poppler
+popple
+poppler
+brew install poppler
+poppler
+pdftotxt
+xpdf
+brew install xpdf
+man poppler
+poppler
+pdftohtml
+pdftotext
+clear
+pdftotext
+ranger
+cd Applications_2022
+ls
+cd Application_22
+cd Application_2022
+ls
+ranger
+pdftotext resume
+pdftotext resume.pdf
+ls
+vim resume.text
+vim resume.txt
+pdf
+ranger
+ranger
+ranger
+tmux ls
+tmux a
+tmux a -t 0
+tmux kill-session -a
+tmux ls
+ranger
+ranger
+exit
+ranger
+exit
+ranger
+emux
+tmux
+clear
+tmux a
+tmux new
+clear
+ls
+cd Husky-Coding-Project
+ls
+cd HuskyReads
+git
+git switch server
+git pull
+ls
+git rest
+git reset
+git switch
+git switch server
+git pull
+ls
+git api
+ls
+cd api
+ls
+cd server.js
+vim server.js
+git pull
+vim server.js
+git pull
+git change
+git
+git log
+clear
+vim server.js
+vim server.js
+git stage
+git add .
+git commit
+git commit -m "Fixed indentation to 4 spaces, added more skeleton code to endpoints"
+git push
+cd husky-coding-project/huskyreads
+ls
+git pull
+vim server.js
+cd api
+vim server.js
+git pull
+git branch
+vim server.js
+vim server.js
+vim server.js
+vim server.js
+vim HelloWorld.java
+vim HelloWorld.java
+java HelloWorld.java
+vim HelloWorld.java
+exit
+ranger
+brew tap homebrew/cask-fonts #You only need to do this once for cask-fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-fantasque-sans-mono
+cd
+ls
+man ls
+clear
+ls -a
+vim ~/.zshrc
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ls
+vim ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ls
+man ls
+man ls
+vim ~/.zshrc
+ranger
+ranger
+cd ..
+cd ..
+cd ..
+cd covent_research_project
+cd covents_research_project
+ls
+cd covenets_research_project
+cd code_drafts
+tesseract
+ls
+tesseract HelloGoogle.tif output -l eng
+ls
+cat output.txt
+tesseract 3.tif outputReal -l eng
+ls
+vim outputReal.txt
+vim outputReal.txt
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+ls
+source tif_to_text.zsh
+ls
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+rm plin_text
+rm -D plin_text
+rm -d plin_text
+ls
+vim tif_to_text.zsh
+man find
+source tif_to_text.zsh
+ls
+mkdir tif_files
+cd tif_files
+ls
+touch hi.tif
+mkdir Hello
+cd Hello
+mkdir Foo
+cd Foo
+touch World.tif
+cd ../..
+..
+cd ..
+ls
+find . -type f -print0 | xargs -0 command
+find . -type f -print0 | xargs -0 echo
+find .tif -type f -print0 | xargs -0 echo
+find . -name `*.tif` -print0 | xargs -0 echo
+find . -name `*.tif` -print0 | xargs -0 grep
+find . -name `*.tif` -print
+find . -name `*.tif` -print0 | xargs -0 grep .tif
+find . -name `*.tif` -print | xargs -0 grep .tif
+find . -name `*.tif` -print | xargs -0 grep tif
+find . -name `*.tif` -print
+find . -name `*.tif` -print | xargs -0
+find . -regex `*.tif` -print | xargs -0
+find . -regex `.` -print | xargs -0
+find . -regex `.` -print0 | xargs -0 grep tif
+find . -regex `.*` -print0 | xargs -0 grep tif
+find . -regex `*.` -print0 | xargs -0 grep tif
+find . -regex `Hello` -print0 | xargs -0 grep tif
+find . -regex `Hello` -print0 | grep
+find . -regex `Hello` -print0 | grep .tif
+find . -name `Hello` -print0 | grep .tif
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+ranger
+exit
+exit
+ranger
+exit
+ranger
+cd ..
+ls
+cd ..
+ls
+cd var
+ls
+cd ..
+lks
+ls
+cd Volumes
+ls
+cd My Passport
+cd My_Passport
+cd My
+ranger
+cd ..
+ls
+cd ~/
+ls
+clear
+ranger
+exit
+tmux
+clear
+ranger
+tmux
+exit
+ranger
+exit
+ranger
+cd husky-coding-project/huskyreads
+git branch
+git pull
+cd api
+vim server.js
+cd ..
+git add .
+git commit
+git push
+cd ..
+cd ~
+ranger
+quit
+exit
+/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract ; exit;
+vim
+ranger
+cd covenets_research_project/code_drafts
+source text_to_tif.zsh
+ls
+tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+cat output1.text
+cat output1.text
+cat output1.tet
+cat output1.txt
+clear
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+cat output1.text
+cat output1.txt
+cat output2.txt
+cat output3.txt
+cat output4.txt
+ls
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+ls plain_text
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+ls plan_text
+ls plain_text
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+source tif_to_text.zsh
+ranger
+ranger
+cd ..
+ls code_drafts
+cd code_drafts
+3.tif
+view
+view 3.tif
+tesseract 3.tif output --dpi 300
+ranger
+tesseract 3.tif output --dpi 300
+ranger
+tmux
+tmux sessions
+tmux ls
+tmux 0
+tmux switch 0
+tmux session 0
+tmux kill-ses -t mysession
+tmux kill-ses -t [1]
+tmux kill-ses -t 1
+tmux
+tmux a
+tmux a
+ranger
+clear
+ranger
+ranger
+ranger
+ranger
+\:wq
+exit
+ranger
+ranger
+exi
+exit
+exit
+cd husky-coding-project
+ls
+cd HuskyReads
+git pull
+git branch
+git checkout
+git branch master
+git
+git switch
+git switch master
+git pull
+clear
+git
+git branch
+git pull
+git
+git status
+git branches
+git branches
+git branch
+git fetch
+ls
+git pull
+git branch
+exit
+cd husky-reads
+cd husky-coding/huskyreads
+cd husky-coding-project
+cd huskyrads
+cd huskyreads
+ls
+clear
+git pull orgin/api-pm
+git branch
+git fetch
+git
+git branch
+git pull
+git pull origin/api-npm
+git branch -a
+git fetch
+git checkout api-npm
+git pull
+clear
+git branch
+git branch -b bookshelfs-add
+git checkout -b bookshelfs-add
+git push
+git push --set--upstream orgin bookshelf-add
+git push --set--upstream origin bookshelfs-add
+git push
+git add
+git add .
+git commit
+git push
+git push --set-upstream origin bookshelfs-add
+clear
+cd api
+ls
+git endpoints.sql
+vim server.js
+cd ~
+ranger
+tesseract
+tesseract --version
+clear
+brew unistall tesserract
+brew unistall
+brew uninstall tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew tesseract info
+brew info tesseract
+brew uninstall tesseract
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew extract -f https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew install ./tesserac.rb
+brew extract --version="3.05.02" tesseract
+curl https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb -o tesseract.rb
+brew info tesseract
+tesseract
+tesseract --version
+brew install ./tesseract.rb
+brew install tesseract
+clear
+tesseract --version
+brew
+brew search tesseract
+brew tesseract
+brew list tesseract
+brew info tesseract
+brew verisons
+brew versions
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew pin tesserct
+brew pin tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew extract --force https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew log tesseract
+clear
+brew
+brew extract
+brew tap
+brew tap --help
+brew tap https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew install https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap
+brew --tap
+brew tap --help
+brew tap-new
+brew install tesseract@3.05.02
+brew install tesseract
+brew install tesseract 3.05.02
+brew install
+brew switch
+brew unlink
+brew unlink tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract tesseract
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract -f --version tesseract
+brew extract -f --version tesseract=3.05.01
+brew extract -f --version=3.05.01 https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+clear
+brew link
+brew link tesseract
+brew install tesseract
+brew install parallel
+parallel
+su
+su
+su
+cd covents_research_project
+cd covenets_research_project
+ls
+cd code_drafts
+ls
+du
+ls
+vim tif_to_text.zsh
+source tif_to_text.zsj
+source tif_to_text.zsh
+ls
+ranger
+vim tif_to_text.zsh
+parallel < tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+cd covenets_research_project/code_drafts
+ls
+cd -l.txt
+cat -l.txt
+ls -l | parallel echo
+time
+time ls
+head -n5
+parallel -N5 ./tif_to_text.zsh
+parallel -j 4 tif_to_text.zsh
+parallel -j 4 > source tif_to_text.zsh
+seq 1000
+clear
+parallel --workdir $pwd ./tif_to_text.zsh {}
+ranger
+ranger

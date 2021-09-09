@@ -1,0 +1,1000 @@
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew extract --force https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew log tesseract
+clear
+brew
+brew extract
+brew tap
+brew tap --help
+brew tap https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew install https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap
+brew --tap
+brew tap --help
+brew tap-new
+brew install tesseract@3.05.02
+brew install tesseract
+brew install tesseract 3.05.02
+brew install
+brew switch
+brew unlink
+brew unlink tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract tesseract
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract -f --version tesseract
+brew extract -f --version tesseract=3.05.01
+brew extract -f --version=3.05.01 https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+clear
+brew link
+brew link tesseract
+brew install tesseract
+brew install parallel
+parallel
+su
+su
+su
+cd covents_research_project
+cd covenets_research_project
+ls
+cd code_drafts
+ls
+du
+ls
+vim tif_to_text.zsh
+source tif_to_text.zsj
+source tif_to_text.zsh
+ls
+ranger
+vim tif_to_text.zsh
+parallel < tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+cd covenets_research_project/code_drafts
+ls
+cd -l.txt
+cat -l.txt
+ls -l | parallel echo
+time
+time ls
+head -n5
+parallel -N5 ./tif_to_text.zsh
+parallel -j 4 tif_to_text.zsh
+parallel -j 4 > source tif_to_text.zsh
+seq 1000
+clear
+parallel --workdir $pwd ./tif_to_text.zsh {}
+ranger
+ranger
+ulimit -a
+clear
+ulimit -a
+ranger
+cd covenets-research-project/code_drafts
+cd covenets-research-project
+ls
+cd covenets_research_project/code_drafts
+ls
+vim tif_to_text.zsh
+parallel --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+ranger
+parallel --dry-run --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+parallel --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+ranger
+ranger
+source tif_to_txt.zsh
+ls
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+parallel --citation
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+cat
+ls
+ranger
+source tif_to_text.zsh
+ranger
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim test.py
+ls
+py3
+python3 test.py
+python3
+python
+py
+source test.py
+python3 test.py
+vim test.py
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+pip
+pip3
+pip3 install Image
+python3 test.py
+vim test.py
+pip3 install Image
+vim test.py
+python3 test.py
+vim test.py
+pip3 Image
+pip3 
+pip3 download Image
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ls
+ranger
+python -m pip install
+python --version
+python3 --version
+homebrew info python
+brew info python
+homebrew uninstall python
+brew uninstall python
+python3 pip
+python3 pip install
+pip3
+pip3 update
+brew upgrade pip3
+brew upgrade python3
+brew
+brew upgrade
+pip3 install Image
+/opt/homebrew/opt/python@3.9/bin/python3.9 -m pip install --upgrade pip
+pip3 Image
+pip3 install Image
+ls
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ls
+vim output.txt
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+pip3 install time
+pip3
+pip3 install Time
+pip3 install datetime
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ranger
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+pip3 install pdf2image
+python3 test.py
+ls
+time OMP_THREAD_LIMIT=1 tesseract -l eng 3.tif 3
+ls
+rm 3.txt
+time OMP_THREAD_LIMIT=2 tesseract -l eng 3.tif 3
+time OMP_THREAD_LIMIT=3 tesseract -l eng 3.tif 3
+cp
+cpy
+yyp
+rmdir
+cat >> hi.txt
+ls
+cat hi.txt
+rm hi.text
+rm hi.txt
+ls -a
+ls -l
+pwd
+PATH
+squeue
+sinfo
+sacctmgr
+sacct
+vim test.py
+pip3 install threading
+pip3 install threading
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ls
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+\:wq
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+ranger
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ranger
+vim test.py
+cd plain_text
+pwd
+cd ..
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ranger
+cd tif_split
+ls
+cd split_tifs
+ls
+ranger
+unzip tifp.zip
+ls
+ranger
+ls
+cd King County
+ranger
+pwd
+ls KingCounty
+cd ..
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ranger
+git remote -V
+cd ~
+ls
+cd Husky-Coding-Project
+cd HuskyReads
+git remote -V
+git remote -v
+git rebase -log
+git rebase -i
+git stash
+git --global
+git --all
+git --master
+git --update
+ranger
+cd ~
+brew install firefox
+ranger
+ranger
+brew update zathura
+brew upgrade zathura
+vim
+ranger
+brew install mupdf
+vim
+ranger -l
+ranger -a
+ranger
+ls -a
+ls .vim
+cd .vim
+ranger
+vim
+\:exit
+exit
+vim
+ranger
+vim
+ranger
+vim .vimrc
+ranger
+brew upgrade zathura-pdf-mupdf
+brew uninstall zathura
+brew install ibsynctex
+brew install synctex
+brew install libmagic-dev
+brew install libmagic
+brew install girara
+brew reinstall zathura
+cd
+ls
+cd Latex_Workspace
+ls
+cd Math_394/Lectures
+cd Lecutre1
+ls
+cd Lecture1
+ls
+ranger
+vim 394_Lecture01.tex
+brew install zathura-pdf-poppler
+vim 394_lecture01.tex
+brew uninstall zathura
+brew uninstall
+brew uninstall -f
+brew uninstall -f zathura
+brew unistall --ignore-dependencies zathura
+brew uninstall --ignore-dependencies zathura
+brew install popller-qt5
+brew install poppler-qt5
+brew unistall mupdf
+brew uninstall mupdf
+brew uninstall zathura-pdf-mudpf
+brew uninstall zathura-pdf-mupdf
+brew tap zegervdv/zathura
+brew install zathura
+brew install zathura-pdf-poppler
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+vim 394_lecture01.tex
+ls -a
+cd ~/.config/zathura/zathurarc
+cd ~/.config/zathura
+ls -a
+ranger
+vim .vimrc
+libsynctex
+brew install libsynctex
+brew install synctex
+synctex
+synctex update
+synctex
+brew info zathura
+brew install --with-synctex zathura
+brew uninstall zathura
+  brew uninstall --ignore-dependencies zathura
+brew install --with-synctex zathura
+brew info zathura
+zathura --with-synctex
+brew info vimtex
+brew vimtex
+brew install vimtex
+ranger
+ls -a
+brew install skim
+vim .vimrc
+ranger
+exit
+ranger
+ranger
+ranger
+ranger
+ranger
+ranger
+cd
+clear
+cd Latex_Projects
+ls
+cd Latex_Workspace
+cd Math_394
+cd Lectures
+ls
+git init
+git commit -m "first commit"
+ranger
+git add Lecture1/
+git commit -m "inital commit"
+git branch -M main
+git remote add origin git@github.com:NicholasBoren/Probablity_Notes.git
+git push -u origin main
+cd ~
+cd Husky-Coding-Project/Husk-Reads
+cd Husky-Coding-Project
+cd HuskyReads
+git pull
+git branch
+git branch server
+git
+git ks
+git ls
+ls
+git branch
+git switch master
+git pull
+git
+ls
+cd api
+git
+git switch bookshelfs-add
+ls
+ranger
+git branch
+git reset --hard
+ls
+cd
+ranger
+git
+git merge master->bookshelfs-add
+git rebase
+cd Husky-Coding-Project/HuskyReads
+git rebase
+git merge
+git
+git branach
+git branch
+git
+ls
+git rebase 
+git rebase --help
+git rebase bookshelfs-add
+git rebase master
+ls
+branch
+git branch
+git api
+cd api
+ranger
+git pull
+git push
+ranger
+ranger
+git add .
+git commit
+git push
+cd ~
+cd ~/
+ranger
+ranger
+ranger
+ranger
+ranger
+ranger
+cd Husky_Coding_Project
+cd Husky-Coding-Project
+cd HuskyReads
+vim server.js
+ranger
+cd api
+git add .
+git commit
+git push
+git push
+ls
+git switch master
+git swtich bookshelfs-add
+git branch
+git switch bookshelfs-add
+git switch bookshelfs-add
+git tag archive/bookshelfs-add bookshelfs-add
+git branch -d bookshelfs-add
+git checkout
+git branch
+git checkout .
+git checkout
+git branch -d bookshelfs-add
+git checkout -b
+git checkout -b bookshelfs-add archive/bookshelfs-add
+git branch -D bookshelfs-add
+git switch master
+git checkout
+git branch -D bookshelfs-add
+git branches
+git branch
+git push
+git pull
+git
+ls
+cd ..
+ls
+git branch
+git push
+git push origin :bookshelf-add
+git push origin :bookshelfs-add
+clear
+git branch fix-style-issues-api
+git branch
+git checkout fix-style-issues-api
+ls
+ranger
+git add .
+git commit 
+git push
+git push --set-upstream orgin fix-style-issues-api
+git push --set-upstream origin fix-style-issues-api
+ranger
+git add .
+git commit
+exot
+exit
+ls
+ranger
+cd Husky-Coding-Project/HuskyReads
+ranger
+git add
+git add .
+git commit
+git push
+clear
+ranger
+git add .
+git commit
+git push
+ranger
+git add
+git add .
+git commit
+git ranger
+ranger
+git add .
+git commit 
+git push
+git branch refactor-helper-functions
+git branches
+git branch
+git checkout refactor-helper-functions
+git push --upstream
+git push
+git push --set-upstream origin
+git push --set-upstream origin refactor-helper-functions
+ranger
+git branch
+git checkout fix-style-issues-api
+ranger
+git add .
+git commit
+git push
+git checkout refactor-api-helpers
+git branch
+git checkout refactor-helper-functions
+git pull fix-style-issues-api
+git pull fix-style-issues-api
+git fetch fix-style-issues-api
+git pull origin fix-style-issues-api
+ranger
+git add .
+git commit
+git push
+cd ~
+ranger
+cd /Volumes/King_County_Deeds/King_County_Property_Records_1891_to_1930/DEL020/D066
+ls
+zsh image_to_text.py
+zsh text_processing.zsh
+vim text_processing.zsh
+zsh text_processing.zsh
+vim text_processing.zsh
+zsh text_processing.zsh
+vim text_processing.zsh
+cd ~
+ranger
+cd Husky-Coding-Project/HuskyReads
+cd api
+ls
+nodemon server.js
+brew install nodemon
+nmp install nodemon
+npm install nodemon
+brew install node
+npm install nodemon
+nodemon server.js
+npm install
+npm audit fix
+npm install nodemon
+nodemon server.js
+node server.js
+vim server.js
+vim server.js
+node server.js
+ranger
+node server.js
+ranger
+node server.js
+git add .
+git commit
+git push
+git pull
+git push
+ranger
+git branch
+git branch
+ranger
+git add .
+git commit
+git push
+cd ~
+ranger
+cd Latex-Workspace
+ls
+cd Latex_Workspace
+ls
+cd Math_394
+ls
+cd Lectures
+ls
+git
+git add Lecture2
+git commit
+git push
+git pull
+ls
+git push
+cd ~
+mkdir Personal-Website
+cd Personal-Website
+git clone https://github.com/nicholasboren/nicholasboren.github.io
+ls
+cd nicholasboren.github.io
+echo "Hello World" > index.html
+git add .
+git commit -m "Inital commit"
+git push
+git init
+echo "Hello World" > index.html
+git commit -m "First Commit"
+git branch --unset-upstream
+git remote add origin https://github.com/NicholasBoren/NicholasBoren.github.io.git
+git push -u origin
+git push --set-upstream origin master
+clear
+ls
+ranger
+git commit -m "First Commit"
+git add .
+git commit -m "First Commit"
+git add
+git status
+git branch
+git branch -M
+git push
+git push --set-upstream origin master
+git remote add origin git@github.com:NicholasBoren/NicholasBoren.github.io.git
+git branch -M main
+git push -u origin main
+ranger
+ls -l
+ls -a
+rm .git
+rmdir .git
+rmdir
+man rmdir
+rmdir -p .git
+ranger
+ranger -a
+man ranger
+ranger
+git
+git init
+git add index.html
+git commit -m "First Commit"
+git branch -M master
+git remote add origin git@github.com:NicholasBoren/NicholasBoren.github.io.git
+git push -u origin master
+vim index.html
+git add .
+git commit
+git push
+vim index.html
+npm install http-server -g
+http-server
+git clone git@github.com:NicholasBoren/devportfolio.git
+ls
+rm index.html
+http-server
+ls
+cd devportfolio
+http-server
+npm install
+Gulp watch
+npm install
+npm run watch
+ls
+ranger
+brew upgrade discord
+brew upgrade discord
+long
+less
+cd ~
+cd Husky-Coding-Project/HuskyReads
+ls
+git branch
+git fetch
+git
+git branch
+git master
+git checkout master
+git pull
+git fetch
+git branch
+ls
+git pull docker
+git pull origin docker
+ls
+git branch
+git push
+git branch -r
+git fetch origin/docker
+git pull docker
+git fetch --all
+git branch
+git checkout docker
+git
+git branch
+git pull -all
+git pull --all
+cd
+ls
+cd Husky-Coding-Project
+ls
+cd HuskyReads
+git branch
+git fetch
+git fetch --help
+git fetch --all
+ls
+git fetcher
+git fetch
+git branch
+ls
+git add .
+git commit
+git push
+git mergetol
+git mergetool
+git fetch
+git merge
+git merge master
+git merge --help
+git checkout master
+branch
+git branch
+git merge master
+git push --set-upstream origin docker
+branch
+git branch
+gitb branch docker
+git checkout docker
+gls
+ls
+git pull
+git pull --remote
+git -r pull
+git switch docker
+git pull --rebase docker
+git pull --rebase origin/docker
+git pull --rebase
+git
+git branch
+git checkout master
+ls
+git branch
+ls
+ls back-end
+git checkout HEAD~1
+ls
+ls -a
+git push
+git push origin HEAD:master
+git branch
+git commit -a -m "Backup"
+git branch my-backup
+git fetch origin
+git reset --hard origin/master
+git ls
+ls
+git branch
+git checkout master
+git pull
+git pull --rebase
+ls
+git status
+git checkout origin/master
+ls
+git branch
+git push --set-upstream
+cd ~
+ranger
+ranger

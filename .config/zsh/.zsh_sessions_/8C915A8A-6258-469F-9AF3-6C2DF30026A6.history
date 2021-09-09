@@ -1,0 +1,1000 @@
+ls
+cd Huskyreads
+ls
+git
+git switch
+git switch database
+ls
+cd api
+ls
+vim database.sql
+git
+git stage
+git add
+git stage .
+git commit
+git commit
+git commit
+git push
+git push --help
+git pull
+git merge
+git push
+git pull
+git
+git diff
+git diff .
+/Volumes/My\ Passport/System\ Volume\ Information/IndexerVolumeGuid ; exit;
+ranger
+clear
+brew install poppler
+popple
+poppler
+brew install poppler
+poppler
+pdftotxt
+xpdf
+brew install xpdf
+man poppler
+poppler
+pdftohtml
+pdftotext
+clear
+pdftotext
+ranger
+cd Applications_2022
+ls
+cd Application_22
+cd Application_2022
+ls
+ranger
+pdftotext resume
+pdftotext resume.pdf
+ls
+vim resume.text
+vim resume.txt
+pdf
+ranger
+ranger
+ranger
+tmux ls
+tmux a
+tmux a -t 0
+tmux kill-session -a
+tmux ls
+ranger
+ranger
+exit
+ranger
+exit
+ranger
+emux
+tmux
+clear
+tmux a
+tmux new
+clear
+ls
+cd Husky-Coding-Project
+ls
+cd HuskyReads
+git
+git switch server
+git pull
+ls
+git rest
+git reset
+git switch
+git switch server
+git pull
+ls
+git api
+ls
+cd api
+ls
+cd server.js
+vim server.js
+git pull
+vim server.js
+git pull
+git change
+git
+git log
+clear
+vim server.js
+vim server.js
+git stage
+git add .
+git commit
+git commit -m "Fixed indentation to 4 spaces, added more skeleton code to endpoints"
+git push
+cd husky-coding-project/huskyreads
+ls
+git pull
+vim server.js
+cd api
+vim server.js
+git pull
+git branch
+vim server.js
+vim server.js
+vim server.js
+vim server.js
+vim HelloWorld.java
+vim HelloWorld.java
+java HelloWorld.java
+vim HelloWorld.java
+exit
+ranger
+brew tap homebrew/cask-fonts #You only need to do this once for cask-fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-fantasque-sans-mono
+cd
+ls
+man ls
+clear
+ls -a
+vim ~/.zshrc
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ls
+vim ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ls
+man ls
+man ls
+vim ~/.zshrc
+ranger
+ranger
+cd ..
+cd ..
+cd ..
+cd covent_research_project
+cd covents_research_project
+ls
+cd covenets_research_project
+cd code_drafts
+tesseract
+ls
+tesseract HelloGoogle.tif output -l eng
+ls
+cat output.txt
+tesseract 3.tif outputReal -l eng
+ls
+vim outputReal.txt
+vim outputReal.txt
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+ls
+source tif_to_text.zsh
+ls
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+rm plin_text
+rm -D plin_text
+rm -d plin_text
+ls
+vim tif_to_text.zsh
+man find
+source tif_to_text.zsh
+ls
+mkdir tif_files
+cd tif_files
+ls
+touch hi.tif
+mkdir Hello
+cd Hello
+mkdir Foo
+cd Foo
+touch World.tif
+cd ../..
+..
+cd ..
+ls
+find . -type f -print0 | xargs -0 command
+find . -type f -print0 | xargs -0 echo
+find .tif -type f -print0 | xargs -0 echo
+find . -name `*.tif` -print0 | xargs -0 echo
+find . -name `*.tif` -print0 | xargs -0 grep
+find . -name `*.tif` -print
+find . -name `*.tif` -print0 | xargs -0 grep .tif
+find . -name `*.tif` -print | xargs -0 grep .tif
+find . -name `*.tif` -print | xargs -0 grep tif
+find . -name `*.tif` -print
+find . -name `*.tif` -print | xargs -0
+find . -regex `*.tif` -print | xargs -0
+find . -regex `.` -print | xargs -0
+find . -regex `.` -print0 | xargs -0 grep tif
+find . -regex `.*` -print0 | xargs -0 grep tif
+find . -regex `*.` -print0 | xargs -0 grep tif
+find . -regex `Hello` -print0 | xargs -0 grep tif
+find . -regex `Hello` -print0 | grep
+find . -regex `Hello` -print0 | grep .tif
+find . -name `Hello` -print0 | grep .tif
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+ranger
+exit
+exit
+ranger
+exit
+ranger
+cd ..
+ls
+cd ..
+ls
+cd var
+ls
+cd ..
+lks
+ls
+cd Volumes
+ls
+cd My Passport
+cd My_Passport
+cd My
+ranger
+cd ..
+ls
+cd ~/
+ls
+clear
+ranger
+exit
+tmux
+clear
+ranger
+tmux
+exit
+ranger
+exit
+ranger
+cd husky-coding-project/huskyreads
+git branch
+git pull
+cd api
+vim server.js
+cd ..
+git add .
+git commit
+git push
+cd ..
+cd ~
+ranger
+quit
+exit
+/opt/homebrew/Cellar/tesseract/4.1.1/bin/tesseract ; exit;
+vim
+ranger
+cd covenets_research_project/code_drafts
+source text_to_tif.zsh
+ls
+tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+cat output1.text
+cat output1.text
+cat output1.tet
+cat output1.txt
+clear
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+cat output1.text
+cat output1.txt
+cat output2.txt
+cat output3.txt
+cat output4.txt
+ls
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+ls plain_text
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+ls plan_text
+ls plain_text
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+source tif_to_text.zsh
+ranger
+ranger
+cd ..
+ls code_drafts
+cd code_drafts
+3.tif
+view
+view 3.tif
+tesseract 3.tif output --dpi 300
+ranger
+tesseract 3.tif output --dpi 300
+ranger
+tmux
+tmux sessions
+tmux ls
+tmux 0
+tmux switch 0
+tmux session 0
+tmux kill-ses -t mysession
+tmux kill-ses -t [1]
+tmux kill-ses -t 1
+tmux
+tmux a
+tmux a
+ranger
+clear
+ranger
+ranger
+ranger
+ranger
+\:wq
+exit
+ranger
+ranger
+exi
+exit
+exit
+cd husky-coding-project
+ls
+cd HuskyReads
+git pull
+git branch
+git checkout
+git branch master
+git
+git switch
+git switch master
+git pull
+clear
+git
+git branch
+git pull
+git
+git status
+git branches
+git branches
+git branch
+git fetch
+ls
+git pull
+git branch
+exit
+cd husky-reads
+cd husky-coding/huskyreads
+cd husky-coding-project
+cd huskyrads
+cd huskyreads
+ls
+clear
+git pull orgin/api-pm
+git branch
+git fetch
+git
+git branch
+git pull
+git pull origin/api-npm
+git branch -a
+git fetch
+git checkout api-npm
+git pull
+clear
+git branch
+git branch -b bookshelfs-add
+git checkout -b bookshelfs-add
+git push
+git push --set--upstream orgin bookshelf-add
+git push --set--upstream origin bookshelfs-add
+git push
+git add
+git add .
+git commit
+git push
+git push --set-upstream origin bookshelfs-add
+clear
+cd api
+ls
+git endpoints.sql
+vim server.js
+cd ~
+ranger
+tesseract
+tesseract --version
+clear
+brew unistall tesserract
+brew unistall
+brew uninstall tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew tesseract info
+brew info tesseract
+brew uninstall tesseract
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew extract -f https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew install ./tesserac.rb
+brew extract --version="3.05.02" tesseract
+curl https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb -o tesseract.rb
+brew info tesseract
+tesseract
+tesseract --version
+brew install ./tesseract.rb
+brew install tesseract
+clear
+tesseract --version
+brew
+brew search tesseract
+brew tesseract
+brew list tesseract
+brew info tesseract
+brew verisons
+brew versions
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew pin tesserct
+brew pin tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew extract --force https://raw.githubusercontent.com/Homebrew/homebrew-core/5df6eb919506a097b2efb1df34a16e3a147c8731/Formula/tesseract.rb
+brew log tesseract
+clear
+brew
+brew extract
+brew tap
+brew tap --help
+brew tap https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew install https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://github.com/Homebrew/homebrew-core/blob/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap-new https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew tap
+brew --tap
+brew tap --help
+brew tap-new
+brew install tesseract@3.05.02
+brew install tesseract
+brew install tesseract 3.05.02
+brew install
+brew switch
+brew unlink
+brew unlink tesseract
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb tesseract
+brew extract tesseract
+brew extract tesseract https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+brew extract -f --version tesseract
+brew extract -f --version tesseract=3.05.01
+brew extract -f --version=3.05.01 https://raw.githubusercontent.com/Homebrew/homebrew-core/4cc054d4d43bc3a0667ebd41a7042c60de894279/Formula/tesseract.rb
+clear
+brew link
+brew link tesseract
+brew install tesseract
+brew install parallel
+parallel
+su
+su
+su
+cd covents_research_project
+cd covenets_research_project
+ls
+cd code_drafts
+ls
+du
+ls
+vim tif_to_text.zsh
+source tif_to_text.zsj
+source tif_to_text.zsh
+ls
+ranger
+vim tif_to_text.zsh
+parallel < tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+cd covenets_research_project/code_drafts
+ls
+cd -l.txt
+cat -l.txt
+ls -l | parallel echo
+time
+time ls
+head -n5
+parallel -N5 ./tif_to_text.zsh
+parallel -j 4 tif_to_text.zsh
+parallel -j 4 > source tif_to_text.zsh
+seq 1000
+clear
+parallel --workdir $pwd ./tif_to_text.zsh {}
+ranger
+ranger
+ulimit -a
+clear
+ulimit -a
+ranger
+cd covenets-research-project/code_drafts
+cd covenets-research-project
+ls
+cd covenets_research_project/code_drafts
+ls
+vim tif_to_text.zsh
+parallel --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+ranger
+parallel --dry-run --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+parallel --bar 'tesseract {} {.} > /dev/null 2>&1' ::: *.tif
+ranger
+ranger
+source tif_to_txt.zsh
+ls
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ranger
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+parallel --citation
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+ls
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+cat
+ls
+ranger
+source tif_to_text.zsh
+ranger
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+vim tif_to_text.zsh
+source tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+zsh tif_to_text.zsh
+vim tif_to_text.zsh
+vim test.py
+ls
+py3
+python3 test.py
+python3
+python
+py
+source test.py
+python3 test.py
+vim test.py
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+pip
+pip3
+pip3 install Image
+python3 test.py
+vim test.py
+pip3 install Image
+vim test.py
+python3 test.py
+vim test.py
+pip3 Image
+pip3 
+pip3 download Image
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ls
+ranger
+python -m pip install
+python --version
+python3 --version
+homebrew info python
+brew info python
+homebrew uninstall python
+brew uninstall python
+python3 pip
+python3 pip install
+pip3
+pip3 update
+brew upgrade pip3
+brew upgrade python3
+brew
+brew upgrade
+pip3 install Image
+/opt/homebrew/opt/python@3.9/bin/python3.9 -m pip install --upgrade pip
+pip3 Image
+pip3 install Image
+ls
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ls
+vim output.txt
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+pip3 install time
+pip3
+pip3 install Time
+pip3 install datetime
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ranger
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+pip3 install pdf2image
+python3 test.py
+ls
+time OMP_THREAD_LIMIT=1 tesseract -l eng 3.tif 3
+ls
+rm 3.txt
+time OMP_THREAD_LIMIT=2 tesseract -l eng 3.tif 3
+time OMP_THREAD_LIMIT=3 tesseract -l eng 3.tif 3
+cp
+cpy
+yyp
+rmdir
+cat >> hi.txt
+ls
+cat hi.txt
+rm hi.text
+rm hi.txt
+ls -a
+ls -l
+pwd
+PATH
+squeue
+sinfo
+sacctmgr
+sacct
+vim test.py
+pip3 install threading
+pip3 install threading
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ls
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+\:wq
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+vim test.py
+python3 test.py
+ranger
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ranger
+vim test.py
+cd plain_text
+pwd
+cd ..
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+ranger
+cd tif_split
+ls
+cd split_tifs
+ls
+ranger
+unzip tifp.zip
+ls
+ranger
+ls
+cd King County
+ranger
+pwd
+ls KingCounty
+cd ..
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+vim test.py
+python3 test.py
+ranger
+git remote -V
+cd ~
+ls
+cd Husky-Coding-Project
+cd HuskyReads
+git remote -V
+git remote -v
+git rebase -log
+git rebase -i
+git stash
+git --global
+git --all
+git --master
+git --update
+ranger
+cd ~
+brew install firefox
+ranger
+ranger
+brew update zathura
+brew upgrade zathura
+vim
+ranger
+brew install mupdf
+vim
+ranger -l
+ranger -a
+ranger
+ls -a
+ls .vim
+cd .vim
+ranger
+vim
+\:exit
+exit
+vim
+ranger
+vim
+ranger
+vim .vimrc
+ranger
+brew upgrade zathura-pdf-mupdf
+brew uninstall zathura
+brew install ibsynctex
+brew install synctex
+brew install libmagic-dev
+brew install libmagic
+brew install girara
+brew reinstall zathura
+cd
+ls
+cd Latex_Workspace
+ls
+cd Math_394/Lectures
+cd Lecutre1
+ls
+cd Lecture1
+ls
+ranger
+vim 394_Lecture01.tex
+brew install zathura-pdf-poppler
+vim 394_lecture01.tex
+brew uninstall zathura
+brew uninstall
+brew uninstall -f
+brew uninstall -f zathura
+brew unistall --ignore-dependencies zathura
+brew uninstall --ignore-dependencies zathura
+brew install popller-qt5
+brew install poppler-qt5
+brew unistall mupdf
+brew uninstall mupdf
+brew uninstall zathura-pdf-mudpf
+brew uninstall zathura-pdf-mupdf
+brew tap zegervdv/zathura
+brew install zathura
+brew install zathura-pdf-poppler
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+vim 394_lecture01.tex

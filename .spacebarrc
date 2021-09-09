@@ -1,0 +1,64 @@
+#!/usr/bin/env sh
+
+spacebar -m config position           top
+spacebar -m config height             38
+spacebar -m config spacing_left       25
+spacebar -m config spacing_right      30
+spacebar -m config text_font          "MesloLGS NF:Bold:18.0"
+spacebar -m config icon_font          "Font Awesome 5 Free:Solid:22.0"
+spacebar -m config background_color   0xff2E2D30
+spacebar -m config foreground_color   0xffa8a8a8
+spacebar -m config space_icon_color   0xff458588
+
+pacebar -m config power_icon_color   0xffa8a8a8
+spacebar -m config battery_icon_color 0xffa8a8a8
+spacebar -m config dnd_icon_color     0xffbf616a
+spacebar -m config clock_icon_color   0xffa8a8a8
+spacebar -m config space_icon_strip   1 2 3 4 5 6 7 8 9 10
+
+spacebar -m config spaces_for_all_displays  "on"
+spacebar -m config display_separator          "on"
+
+spacebar -m config dnd_icon           o
+spacebar -m config clock_format       "%d/%m/%y %r"
+spacebar -m config right_shell on
+spacebar -m config right_shell_command "~/bin/cpu-temp.sh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
